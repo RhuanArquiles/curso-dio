@@ -1,4 +1,4 @@
-# See My progress - curso dio
+# See My Progress - curso dio
  - "Hello World"
  - Calculadora
  
